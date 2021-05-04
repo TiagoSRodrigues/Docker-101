@@ -1,4 +1,4 @@
-# Docker for the Absolute Beginner - Hands On - DevOps
+# Docker for the Absolute Beginner 
 
 ## Concepts
 
@@ -124,7 +124,7 @@ a container has a internal ip, it must be mapped a port of the host.
 
 we can run diferent instances on diferent ports.
 
-<img src ="images/docker_port_mapping.PNG">
+![ports image](https://github.com/TiagoSRodrigues/Docker-101/blob/master/Images/docker_port_mapping.PNG)
 
 ## **Volume mapping**
 
