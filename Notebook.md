@@ -136,27 +136,27 @@ Used to store data, in order don't delete data when stopping the container. Exam
 ## Management commands:
 
 Management Commands:
-Command     | Description  
---          |--
-app*        |Docker App (Docker Inc., v0.9.1-beta3)
-builder     |Manage builds
-buildx*     |Build with BuildKit (Docker Inc., v0.5.1-docker)
-config      |Manage Docker configs
-container   |Manage containers
-context     |Manage contexts
-image       |Manage images
-manifest    |Manage Docker image manifests and manifest lists
-network     |Manage networks
-node        |Manage Swarm nodes
-plugin      |Manage plugins
-scan*       |Docker Scan (Docker Inc., v0.6.0)
-secret      |Manage Docker secrets
-service     |Manage services
-stack       |Manage Docker stacks
-swarm       |Manage Swarm
-system      |Manage Docker
-trust       |Manage trust on Docker images
-volume      |Manage volumes
+|Command     | Description  
+|--          |--
+|app*        |Docker App (Docker Inc., v0.9.1-beta3)
+|builder     |Manage builds
+|buildx*     |Build with BuildKit (Docker Inc., v0.5.1-docker)
+|config      |Manage Docker configs
+|container   |Manage containers
+|context     |Manage contexts
+|image       |Manage images
+|manifest    |Manage Docker image manifests and manifest lists
+|network     |Manage networks
+|node        |Manage Swarm nodes
+|plugin      |Manage plugins
+|scan*       |Docker Scan (Docker Inc., v0.6.0)
+|secret      |Manage Docker secrets
+|service     |Manage services
+|stack       |Manage Docker stacks
+|swarm       |Manage Swarm
+|system      |Manage Docker
+|trust       |Manage trust on Docker images
+|volume      |Manage volumes
 
 
 
